@@ -1,6 +1,6 @@
 <h1> 👋Hi <br> Wellcome </h1>
 
-# REC Student Fill free to contribute
+# ⚙🚀REC Student Fill free to contribute 🎈🤖
 
 ![recdownload](https://user-images.githubusercontent.com/75454756/135025400-a7309072-02c3-4001-9bd5-8643a4570bf8.jpg)
 
